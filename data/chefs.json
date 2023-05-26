@@ -1,0 +1,320 @@
+[
+    {
+        "id": "1dw01",
+        "chefName": "Masaharu Morimoto",
+        "yearsOfExperience": 14,
+        "numberOfRecipes": 6,
+        "likes": 15456,
+        "chefPicture": "https://i.ibb.co/R6CT23T/chef1.jpg",
+        "chefDescription": "Masaharu Morimoto is a Japanese chef who has a unique style of blending Japanese cuisine with Western ingredients. He is best known for his appearance on the Japanese television show Iron Chef and for his popular restaurants Morimoto in New York City, Philadelphia, and other cities around the world.",
+        "recipes": [
+            {
+                "id": "r3849f",
+                "recipeImg": "https://i.ibb.co/B32JTg8/r1.webp",
+                "recipeName": "Okonomiyaki",
+                "ingredients": [
+                    "120 grams flour",
+                    "3 eggs ",
+                    "500 grams cabbage ",
+                    "1 carrot",
+                    "4 spring onions"
+                ],
+                "cookingMethod": "1. Mix flour, water, and eggs in a bowl. 2. Add shredded cabbage, grated carrot, and sliced spring onions to the batter and mix well. 3. Cook ladlefuls of batter on a hot non-stick pan until golden brown and crispy on both sides. 4. Serve with Okonomiyaki sauce and mayonnaise, and optionally sprinkle with bonito flakes and/or aonori.",
+                "rating": 4.5
+            },
+            {
+                "id": "r93g42",
+                "recipeImg": "https://i.ibb.co/2n7bdKk/r2.webp",
+                "recipeName": "Gyoza",
+                "ingredients": [
+                    "1 lb. napa cabbage",
+                    "1 Tbsp. kosher salt",
+                    "1 lb. pork shoulder",
+                    "1 tsp. white pepper",
+                    "1 Tbsp. minced fresh garlic"
+                ],
+                "cookingMethod": "1. Mix chopped cabbage with salt and set aside. 2. Mix chopped pork, pepper, garlic, ginger, and scallions. 3. Combine cabbage and pork mixture. 4. Fill gyoza wrappers with mixture and fry in oil until golden. 5. Add water and steam until cooked through. 6. Remove lid and fry until crispy. 7. Serve with dipping sauce.",
+                "rating": 4.3
+            },
+            {
+                "id": "r7d9f2",
+                "recipeImg": "https://i.ibb.co/rfYcbkg/r3.webp",
+                "recipeName": "Chicken Drumsticks",
+                "ingredients": [
+                    "8 chicken drumsticks",
+                    "1/2 cup balsamic vinegar",
+                    "1/3 cup soy sauce",
+                    "2 1/2 Tbsp. sugar",
+                    "1 clove garlic"
+                ],
+                "cookingMethod": "Preheat oven to 400°F (200°C). Mix water, balsamic vinegar, soy sauce, sugar, garlic, and hot pepper in a small saucepan. Bring to a boil, then reduce heat and simmer for 5 minutes. Arrange chicken drumsticks on a baking sheet and brush them with the sauce. Bake in preheated oven for 30-35 minutes, until cooked through and golden brown.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "id": "1dw02",
+        "chefName": "Nobu Matsuhisa",
+        "yearsOfExperience": 17,
+        "numberOfRecipes": 6,
+        "likes": 17960,
+        "chefPicture": "https://i.ibb.co/NyRDSM2/chef2.jpg",
+        "chefDescription": "Nobu Matsuhisa is a Japanese celebrity chef and restaurateur who is best known for his fusion cuisine that blends Japanese dishes with South American ingredients. He has over 40 restaurants worldwide, including his flagship restaurant Nobu, which has locations in major cities around the world.",
+        "recipes": [
+            {
+                "id": "r93g43",
+                "recipeImg": "https://i.ibb.co/kQsFw2S/r4.webp",
+                "recipeName": "Beef Steak",
+                "ingredients": [
+                    "2 cloves garlic",
+                    "1 Tbsp. sugar",
+                    "2 Tbsp. soy sauce",
+                    "2 Tbsp. sake",
+                    "2 new york steaks"
+                ],
+                "cookingMethod": "1. Preheat a skillet or grill to high heat. 2. Rub garlic onto both sides of the steaks, then sprinkle sugar on top. 3. In a small bowl, mix together soy sauce, sake, and water. 4. Cook steaks for 3-4 minutes on each side for medium-rare, or until desired doneness. 5. Brush the soy sauce mixture onto the steaks during the last minute of cooking. 6. Let the steaks rest for 5 minutes before slicing and serving.",
+                "rating": 4.7
+            },
+            {
+                "id": "r93g44",
+                "recipeImg": "https://i.ibb.co/fxtc8vR/r5.webp",
+                "recipeName": "Tonkatsu",
+                "ingredients": [
+                    "1 cup corn oil",
+                    "1 lb. boneless pork chops",
+                    "1/2 cup all purpose flour",
+                    "1 large egg",
+                    "1 cup panko bread crumbs"
+                ],
+                "cookingMethod": "1. Season the pork chops with kosher salt and ground black pepper. 2. Dredge the pork chops in flour, shaking off any excess. 3. Beat the egg in a shallow bowl. 4. Place the panko bread crumbs in a separate shallow bowl. 5. Dip each pork chop in the beaten egg, then coat with panko bread crumbs, pressing to adhere. 6. Heat the corn oil in a large skillet over medium-high heat. 7. Add the pork chops and cook until golden brown and cooked through, about 3-4 minutes per side. 8. Transfer the pork chops to a paper towel-lined plate to drain excess oil. 9. Serve hot with your favorite dipping sauce.",
+                "rating": 3.5
+            },
+            {
+                "id": "r93g45",
+                "recipeImg": "https://i.ibb.co/6tXdtFn/r6.webp",
+                "recipeName": "Steak Rice Bowl",
+                "ingredients": [
+                    "2 Tbsp. soy sauce",
+                    "2 Tbsp. mirin",
+                    "1 tsp. cooking oil",
+                    "2 cloves garlic",
+                    "2 Tbsp. butter"
+                ],
+                "cookingMethod": "1. In a small bowl, whisk together the soy sauce, mirin, sake, Worcestershire sauce, sugar, and garlic. 2. Heat the cooking oil in a large skillet over medium-high heat. 3. Add the steak and cook for 3-4 minutes per side, until browned and cooked to your liking. 4. Remove the steak from the skillet and set aside. 5. Add the butter to the skillet and let it melt. 6. Pour the sauce into the skillet and cook for 1-2 minutes, until it thickens. 7. Slice the steak into thin strips. 8. Divide cooked rice into bowls and top with the sliced steak. 9. Drizzle the sauce over the steak and rice. 10. Serve hot.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "id": "1dw03",
+        "chefName": "Toshiro Konishi",
+        "yearsOfExperience": 13,
+        "numberOfRecipes": 6,
+        "likes": 14807,
+        "chefPicture": "https://i.ibb.co/dmvvpGS/chef3.jpg",
+        "chefDescription": "Toshiro Konishi is a Japanese-Peruvian chef who is best known for his innovative Nikkei cuisine, which combines Japanese ingredients with Peruvian flavors. He has been recognized as one of the most influential chefs in Peru and has worked with several notable chefs around the world.",
+        "recipes": [
+            {
+                "id": "r93g51",
+                "recipeImg": "https://i.ibb.co/DRBx72J/r7.webp",
+                "recipeName": "Chicken Teriyaki",
+                "ingredients": [
+                    "2 Tbsp. low sodium tamari",
+                    "2 Tbsp. sake",
+                    "2 Tbsp. honey",
+                    "1 slice fresh ginger",
+                    "1/2 lb. boneless"
+                ],
+                "cookingMethod": "1. Combine tamari, sake, honey, and ginger in a bowl. Add chicken and marinate for at least 30 minutes.2. Heat a skillet over medium-high heat. Add chicken and cook until browned on both sides and cooked through, about 6-7 minutes per side.3. Remove chicken from skillet and set aside. Add remaining marinade to the skillet and bring to a boil. Reduce heat and simmer until sauce thickens, about 2-3 minutes.4. Return chicken to skillet and coat with the sauce. Serve hot.",
+                "rating": 4.2
+            },
+            {
+                "id": "r93g52",
+                "recipeImg": "https://i.ibb.co/QDS73n4/r8.webp",
+                "recipeName": "Roasted Chicken",
+                "ingredients": [
+                    "1 whole chicken",
+                    "3 Tbsp. olive oil",
+                    "3 Tbsp. soy sauce",
+                    "1 tsp. red chili flakes",
+                    "1 tsp. olive oil"
+                ],
+                "cookingMethod": "1. Preheat oven to 375°F. 2. In a small bowl, whisk together olive oil, ginger, soy sauce, chili flakes, and sake to make the marinade. 3. Place the chicken in a roasting pan and coat it with the marinade, rubbing it inside the cavity as well. 4. Roast the chicken for 1 1/2 to 2 hours, or until the internal temperature of the thickest part of the meat reaches 165°F. 5. Let the chicken rest for 10-15 minutes before carving and serving.",
+                "rating": 4.7
+            },
+            {
+                "id": "r93g53",
+                "recipeImg": "https://i.ibb.co/1JYjP89/r9.webp",
+                "recipeName": "Oyakodon",
+                "ingredients": [
+                    "1 Tbsp. oil",
+                    "4 chicken thighs",
+                    "4 Tbsp. low sodium soy sauce",
+                    "4 Tbsp. mirin",
+                    "4 eggs"
+                ],
+                "cookingMethod": "1. Heat the oil in a large skillet over medium-high heat. 2. Add the chicken thighs and cook until browned on both sides, about 5-7 minutes. 3. Add the dashi, onions, soy sauce, mirin, and sugar to the skillet and bring to a simmer. 4. Reduce the heat to low and cover the skillet. Cook for about 10-15 minutes or until the chicken is cooked through and the onions are soft. 5. Crack the eggs into the skillet, cover, and cook for 3-5 minutes or until the eggs are set. 6. Serve the oyakodon over steamed rice.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "id": "1dw04",
+        "chefName": "Yoshihiro Murata",
+        "yearsOfExperience": 16,
+        "numberOfRecipes": 6,
+        "likes": 18060,
+        "chefPicture": "https://i.ibb.co/5RTZPCn/chef4.jpg",
+        "chefDescription": "Yoshihiro Murata is a third-generation owner and chef of the three Michelin-starred restaurant Kikunoi in Kyoto, Japan. He is known for his traditional Kaiseki cuisine, which is a multi-course meal that showcases the seasonal ingredients of Japan. He is also the author of several cookbooks and has been featured in many culinary documentaries.",
+        "recipes": [
+            {
+                "id": "r38491",
+                "recipeImg": "https://i.ibb.co/B32JTg8/r1.webp",
+                "recipeName": "Okonomiyaki",
+                "ingredients": [
+                    "120 grams flour",
+                    "3 eggs ",
+                    "500 grams cabbage ",
+                    "1 carrot",
+                    "4 spring onions"
+                ],
+                "cookingMethod": "1. Mix flour, water, and eggs in a bowl. 2. Add shredded cabbage, grated carrot, and sliced spring onions to the batter and mix well. 3. Cook ladlefuls of batter on a hot non-stick pan until golden brown and crispy on both sides. 4. Serve with Okonomiyaki sauce and mayonnaise, and optionally sprinkle with bonito flakes and/or aonori.",
+                "rating": 4.4
+            },
+            {
+                "id": "r93g92",
+                "recipeImg": "https://i.ibb.co/2n7bdKk/r2.webp",
+                "recipeName": "Gyoza",
+                "ingredients": [
+                    "1 lb. napa cabbage",
+                    "1 Tbsp. kosher salt",
+                    "1 lb. pork shoulder",
+                    "1 Tbsp. minced fresh garlic",
+                    "2 oz. scallions"
+                ],
+                "cookingMethod": "1. Mix chopped cabbage with salt and set aside. 2. Mix chopped pork, pepper, garlic, ginger, and scallions. 3. Combine cabbage and pork mixture. 4. Fill gyoza wrappers with mixture and fry in oil until golden. 5. Add water and steam until cooked through. 6. Remove lid and fry until crispy. 7. Serve with dipping sauce.",
+                "rating": 4
+            },
+            {
+                "id": "r7d993",
+                "recipeImg": "https://i.ibb.co/rfYcbkg/r3.webp",
+                "recipeName": "Chicken Drumsticks",
+                "ingredients": [
+                    "8 chicken drumsticks",
+                    "1/2 cup balsamic vinegar",
+                    "1/3 cup soy sauce",
+                    "2 1/2 Tbsp. sugar",
+                    "1 clove garlic"
+                ],
+                "cookingMethod": "Preheat oven to 400°F (200°C). Mix water, balsamic vinegar, soy sauce, sugar, garlic, and hot pepper in a small saucepan. Bring to a boil, then reduce heat and simmer for 5 minutes. Arrange chicken drumsticks on a baking sheet and brush them with the sauce. Bake in preheated oven for 30-35 minutes, until cooked through and golden brown.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": "1dw05",
+        "chefName": "Hiroyuki Sakai",
+        "yearsOfExperience": 14,
+        "numberOfRecipes": 6,
+        "likes": 16800,
+        "chefPicture": "https://i.ibb.co/HN26d5Q/chef5.jpg",
+        "chefDescription": "Hiroyuki Sakai is a Japanese celebrity chef who is best known for his appearance on the Japanese television show Iron Chef. He is the owner of the Michelin-starred restaurant La Rochelle in Japan and has won numerous culinary awards throughout his career. He is known for his innovative French-Japanese fusion cuisine.",
+        "recipes": [
+            {
+                "id": "r38494",
+                "recipeImg": "https://i.ibb.co/B32JTg8/r1.webp",
+                "recipeName": "Okonomiyaki",
+                "ingredients": [
+                    "120 grams flour",
+                    "3 eggs ",
+                    "500 grams cabbage ",
+                    "1 carrot",
+                    "4 spring onions"
+                ],
+                "cookingMethod": "1. Mix flour, water, and eggs in a bowl. 2. Add shredded cabbage, grated carrot, and sliced spring onions to the batter and mix well. 3. Cook ladlefuls of batter on a hot non-stick pan until golden brown and crispy on both sides. 4. Serve with Okonomiyaki sauce and mayonnaise, and optionally sprinkle with bonito flakes and/or aonori.",
+                "rating": 5
+            },
+            {
+                "id": "r93g95",
+                "recipeImg": "https://i.ibb.co/2n7bdKk/r2.webp",
+                "recipeName": "Gyoza",
+                "ingredients": [
+                    "1 lb. napa cabbage",
+                    "1 Tbsp. kosher salt",
+                    "1 lb. pork shoulder",
+                    "1 Tbsp. minced fresh garlic",
+                    "2 oz. scallions"
+                ],
+                "cookingMethod": "1. Mix chopped cabbage with salt and set aside. 2. Mix chopped pork, pepper, garlic, ginger, and scallions. 3. Combine cabbage and pork mixture. 4. Fill gyoza wrappers with mixture and fry in oil until golden. 5. Add water and steam until cooked through. 6. Remove lid and fry until crispy. 7. Serve with dipping sauce.",
+                "rating": 4.6
+            },
+            {
+                "id": "r7d996",
+                "recipeImg": "https://i.ibb.co/rfYcbkg/r3.webp",
+                "recipeName": "Chicken Drumsticks",
+                "ingredients": [
+                    "8 chicken drumsticks",
+                    "1/2 cup balsamic vinegar",
+                    "1/3 cup soy sauce",
+                    "2 1/2 Tbsp. sugar",
+                    "1 clove garlic"
+                ],
+                "cookingMethod": "Preheat oven to 400°F (200°C). Mix water, balsamic vinegar, soy sauce, sugar, garlic, and hot pepper in a small saucepan. Bring to a boil, then reduce heat and simmer for 5 minutes. Arrange chicken drumsticks on a baking sheet and brush them with the sauce. Bake in preheated oven for 30-35 minutes, until cooked through and golden brown.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": "1dw06",
+        "chefName": "Zaiyu Hasegawa",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 6,
+        "likes": 13054,
+        "chefPicture": "https://i.ibb.co/6ws2jwY/chef6.jpg",
+        "chefDescription": "Zaiyu Hasegawa is a renowned Japanese chef and the owner of the Michelin-starred restaurant Den in Tokyo. He is known for his innovative and playful approach to Japanese cuisine, using local and seasonal ingredients to create dishes that are both beautiful and delicious. Hasegawa's signature dish is the 'Dentucky Fried Chicken,' a playful take on the classic American dish that uses Japanese ingredients and techniques.",
+        "recipes": [
+            {
+                "id": "r38497",
+                "recipeImg": "https://i.ibb.co/B32JTg8/r1.webp",
+                "recipeName": "Okonomiyaki",
+                "ingredients": [
+                    "120 grams flour",
+                    "3 eggs ",
+                    "500 grams cabbage ",
+                    "1 carrot",
+                    "4 spring onions"
+                ],
+                "cookingMethod": "1. Mix flour, water, and eggs in a bowl. 2. Add shredded cabbage, grated carrot, and sliced spring onions to the batter and mix well. 3. Cook ladlefuls of batter on a hot non-stick pan until golden brown and crispy on both sides. 4. Serve with Okonomiyaki sauce and mayonnaise, and optionally sprinkle with bonito flakes and/or aonori.",
+                "rating": 4.6
+            },
+            {
+                "id": "r93g98",
+                "recipeImg": "https://i.ibb.co/2n7bdKk/r2.webp",
+                "recipeName": "Gyoza",
+                "ingredients": [
+                    "1 lb. napa cabbage",
+                    "1 lb. pork shoulder",
+                    "1 Tbsp. minced fresh garlic",
+                    "1 tsp. fresh ginger",
+                    "2 oz. scallions"
+                ],
+                "cookingMethod": "1. Mix chopped cabbage with salt and set aside. 2. Mix chopped pork, pepper, garlic, ginger, and scallions. 3. Combine cabbage and pork mixture. 4. Fill gyoza wrappers with mixture and fry in oil until golden. 5. Add water and steam until cooked through. 6. Remove lid and fry until crispy. 7. Serve with dipping sauce.",
+                "rating": 4.1
+            },
+            {
+                "id": "r7d999",
+                "recipeImg": "https://i.ibb.co/rfYcbkg/r3.webp",
+                "recipeName": "Chicken Drumsticks",
+                "ingredients": [
+                    "8 chicken drumsticks",
+                    "1/2 cup balsamic vinegar",
+                    "1/3 cup soy sauce",
+                    "2 1/2 Tbsp. sugar",
+                    "1 clove garlic"
+                ],
+                "cookingMethod": "Preheat oven to 400°F (200°C). Mix water, balsamic vinegar, soy sauce, sugar, garlic, and hot pepper in a small saucepan. Bring to a boil, then reduce heat and simmer for 5 minutes. Arrange chicken drumsticks on a baking sheet and brush them with the sauce. Bake in preheated oven for 30-35 minutes, until cooked through and golden brown.",
+                "rating": 5
+            }
+        ]
+    }
+]

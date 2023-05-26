@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "rating": 5,
+        "review": "Delicious World is an amazing website for food lovers. The recipes are easy to follow and always turn out great. I especially love the videos that show you step by step how to make each dish. Highly recommend!",
+        "img": "https://i.ibb.co/WBMK9tS/testimonial1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Mary Johnson",
+        "rating": 4,
+        "review": "Delicious World has amazing recipes and an easy-to-use website with beautiful food pictures. Some ingredients were hard to find, but it was worth the effort.",
+        "img": "https://i.ibb.co/1R0mHzb/testimonial2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "David Lee",
+        "rating": 3,
+        "review": "Delicious World is a good website for finding new recipes, but I've had mixed results with the ones I've tried. Some turned out great, while others were just okay. Overall, it's worth checking out.",
+        "img": "https://i.ibb.co/qs4wnSN/testimonial3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sarah Nguyen",
+        "rating": 5,
+        "review": "I love Delicious World! The recipes are creative and always turn out great. I've even impressed my foodie friends with some of the dishes I've made from the website. Highly recommend!",
+        "img": "https://i.ibb.co/WpjYsKf/testimonial4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mike Patel",
+        "rating": 3,
+        "review": "I found Delicious World to be okay, but the recipes were still somewhat complicated and the website layout was confusing. Some ingredients were hard to find, but overall it was an okay experience.",
+        "img": "https://i.ibb.co/0Kf8VQ1/testimonial5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Jennifer Garcia",
+        "rating": 4,
+        "review": "Delicious World has a great selection of recipes to choose from. I've tried several and they've all been tasty. The website is easy to navigate and the videos are helpful. Highly recommend!",
+        "img": "https://i.ibb.co/HGR5Syr/testimonial6.jpg"
+    }
+]
